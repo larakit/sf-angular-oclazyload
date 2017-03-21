@@ -1,6 +1,6 @@
 {
-    "name": "larakit/sf-oclazyload",
-    "description": "[Larakit] [staticfiles] sf-oclazyload",
+    "name": "larakit/sf-angular-oclazyload",
+    "description": "[Larakit] [staticfiles] sf-angular-oclazyload",
     "version": "1.0.0",
     "license": "MIT",
     "require":{
